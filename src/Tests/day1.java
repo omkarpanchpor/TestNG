@@ -11,6 +11,8 @@ public class day1 {
 	public void demo() {
 		
 		System.out.println("Hello ");
+		System.out.println("Whats up ??? ");
+		System.out.println("How are you ..!! ");
 	}
 	
 	@AfterSuite
