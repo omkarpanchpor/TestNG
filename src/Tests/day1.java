@@ -22,12 +22,16 @@ public class day1 {
 		System.out.println("I m the last ");
 		System.out.println("I m first ");
 		System.out.println("I m second ");
+		
 	}
 
 	@Test
 	public void secondTestcases() {
 		
 		System.out.println("Byee..");
+		
+		System.out.println("See you .....");
+		System.out.println("See you sooonn..");
 	}
 	
 
