@@ -29,7 +29,10 @@ public class day4 {
 	public void BM() 
 	{
 		
-		System.out.println("Before methods I m executing ");
+		System.out.println("Before methods I m executing 1");
+		System.out.println("Before methods I m executing 2");
+		System.out.println("Before methods I m executing 3");
+		System.out.println("Before methods I m executing 4");
 		
 	}
 	
