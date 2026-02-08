@@ -1,8 +1,9 @@
 package Tests;
 
-import org.testng.Assert;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Test;
+import org.testng.annotations.*;
+
+
 
 
 public class day1 {
@@ -19,6 +20,8 @@ public class day1 {
     public void AFSuite() {
 		
 		System.out.println("I m the last ");
+		System.out.println("I m first ");
+		System.out.println("I m second ");
 	}
 
 	@Test
