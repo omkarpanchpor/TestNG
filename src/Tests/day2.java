@@ -10,7 +10,10 @@ public class day2 {
 	{
 		
 		
-		System.out.println("Last execution ");
+		System.out.println("Last execution 1");
+		System.out.println("Last execution 2");
+		System.out.println("Last execution 3");
+		System.out.println("Last execution 4");
 	}
 	
 	@Test (groups={"smoke"})
